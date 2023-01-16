@@ -55,7 +55,7 @@ export default function Contact() {
           </a>
         </address>
         <p>
-          <strong>Love to hear your feedback!</strong>
+          <strong>Love to hear from you!</strong>
         </p>
       </div>
     <Form ref={form} onSubmit={sendEmail}>

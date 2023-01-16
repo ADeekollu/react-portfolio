@@ -3,6 +3,7 @@ import SneakerPeak from "../assets/thumbnail/sneakerPeak.png";
 import WeatherApplication from "../assets/thumbnail/weatherApp.png"
 import FanZone from "../assets/thumbnail/fanZone.png"
 import WorkDay from "../assets/thumbnail/workday.png"
+import DevPortfolio from "../assets/thumbnail/devPortfolio.png"
 
 function Portfolio() {
   return (
@@ -46,7 +47,7 @@ function Portfolio() {
                   src={WeatherApplication}
                   className="my-2"
                   style={{ width: "100%" }}
-                  alt="Homepage with shoes"
+                  alt="5 day weather dashboard"
                 />
               </a>
             </div>
@@ -69,7 +70,7 @@ function Portfolio() {
                   src={FanZone}
                   className="my-2"
                   style={{ width: "100%" }}
-                  alt="Homepage with shoes"
+                  alt="Homepage with for a website providing sports wagering information"
                 />
               </a>
             </div>
@@ -91,7 +92,7 @@ function Portfolio() {
                   src={WorkDay}
                   className="my-2"
                   style={{ width: "100%" }}
-                  alt="Homepage with shoes"
+                  alt="Dashboard for daily workday planner"
                 />
               </a>
             </div>
@@ -111,18 +112,18 @@ function Portfolio() {
               <a href="https://adeekollu.github.io/todo-planner/">
                 {" "}
                 <img
-                  src={WorkDay}
+                  src={DevPortfolio}
                   className="my-2"
                   style={{ width: "100%" }}
-                  alt="Homepage with shoes"
+                  alt="Homepage of a developer portfolio"
                 />
               </a>
             </div>
             <div className="job-text">
-              <h4>Work Day</h4>
+              <h4>Developer Portfolio</h4>
               <p>
-               A daily planner to help organize to do's through out your day. Built with React.js and is able to 
-               keep track of how many to do's remain as you can add to do's, toggle them when done and clear to do's.
+                A developer Portfolio built with React.js highlighting projects worked on and deployed,
+                along with a way to contact the developer.
               </p>
             </div>
           </div>
