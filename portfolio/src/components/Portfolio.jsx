@@ -109,7 +109,7 @@ function Portfolio() {
         <div className="job">
           <div className="job-info">
             <div className="job-img">
-              <a href="https://adeekollu.github.io/todo-planner/">
+              <a href="https://adeekollu.github.io/react-portfolio/">
                 {" "}
                 <img
                   src={DevPortfolio}
