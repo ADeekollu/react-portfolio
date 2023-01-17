@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "//ADeekollu.github.io/react-portfolio/static/css/main.d90fbc42.css",
-    "main.js": "//ADeekollu.github.io/react-portfolio/static/js/main.a01d19fa.js",
+    "main.js": "//ADeekollu.github.io/react-portfolio/static/js/main.1fa94307.js",
     "static/media/profile.png": "//ADeekollu.github.io/react-portfolio/static/media/profile.54535f7729fb34898787.png",
     "static/media/devPortfolio.png": "//ADeekollu.github.io/react-portfolio/static/media/devPortfolio.2341e08cc41539c4c429.png",
     "static/media/norway.jpg": "//ADeekollu.github.io/react-portfolio/static/media/norway.05211d1ab958e6a2c315.jpg",
@@ -12,10 +12,10 @@
     "static/media/workday.png": "//ADeekollu.github.io/react-portfolio/static/media/workday.f9f8dcb867ecdf219fa3.png",
     "index.html": "//ADeekollu.github.io/react-portfolio/index.html",
     "main.d90fbc42.css.map": "//ADeekollu.github.io/react-portfolio/static/css/main.d90fbc42.css.map",
-    "main.a01d19fa.js.map": "//ADeekollu.github.io/react-portfolio/static/js/main.a01d19fa.js.map"
+    "main.1fa94307.js.map": "//ADeekollu.github.io/react-portfolio/static/js/main.1fa94307.js.map"
   },
   "entrypoints": [
     "static/css/main.d90fbc42.css",
-    "static/js/main.a01d19fa.js"
+    "static/js/main.1fa94307.js"
   ]
 }
