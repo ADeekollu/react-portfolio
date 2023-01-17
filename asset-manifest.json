@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "//ADeekollu.github.io/react-portfolio/static/css/main.d90fbc42.css",
-    "main.js": "//ADeekollu.github.io/react-portfolio/static/js/main.2f5ba07a.js",
-    "static/media/profile.png": "//ADeekollu.github.io/react-portfolio/static/media/profile.54535f7729fb34898787.png",
-    "static/media/devPortfolio.png": "//ADeekollu.github.io/react-portfolio/static/media/devPortfolio.2341e08cc41539c4c429.png",
-    "static/media/norway.jpg": "//ADeekollu.github.io/react-portfolio/static/media/norway.05211d1ab958e6a2c315.jpg",
-    "static/media/sneakerPeak.png": "//ADeekollu.github.io/react-portfolio/static/media/sneakerPeak.55612fe9e8f02253b7bb.png",
-    "static/media/fanZone.png": "//ADeekollu.github.io/react-portfolio/static/media/fanZone.dce494c514934f084bb8.png",
-    "static/media/BA_Resume.pdf": "//ADeekollu.github.io/react-portfolio/static/media/BA_Resume.9c4a70f80152b92daeb2.pdf",
-    "static/media/weatherApp.png": "//ADeekollu.github.io/react-portfolio/static/media/weatherApp.7384644cfa5c1b84338f.png",
-    "static/media/workday.png": "//ADeekollu.github.io/react-portfolio/static/media/workday.f9f8dcb867ecdf219fa3.png",
-    "index.html": "//ADeekollu.github.io/react-portfolio/index.html",
-    "main.d90fbc42.css.map": "//ADeekollu.github.io/react-portfolio/static/css/main.d90fbc42.css.map",
-    "main.2f5ba07a.js.map": "//ADeekollu.github.io/react-portfolio/static/js/main.2f5ba07a.js.map"
+    "main.css": "/react-portfolio/static/css/main.4eccda3a.css",
+    "main.js": "/react-portfolio/static/js/main.727a6333.js",
+    "static/media/profile.png": "/react-portfolio/static/media/profile.54535f7729fb34898787.png",
+    "static/media/devPortfolio.png": "/react-portfolio/static/media/devPortfolio.2341e08cc41539c4c429.png",
+    "static/media/norway.jpg": "/react-portfolio/static/media/norway.05211d1ab958e6a2c315.jpg",
+    "static/media/sneakerPeak.png": "/react-portfolio/static/media/sneakerPeak.55612fe9e8f02253b7bb.png",
+    "static/media/fanZone.png": "/react-portfolio/static/media/fanZone.dce494c514934f084bb8.png",
+    "static/media/BA_Resume.pdf": "/react-portfolio/static/media/BA_Resume.9c4a70f80152b92daeb2.pdf",
+    "static/media/weatherApp.png": "/react-portfolio/static/media/weatherApp.7384644cfa5c1b84338f.png",
+    "static/media/workday.png": "/react-portfolio/static/media/workday.f9f8dcb867ecdf219fa3.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.4eccda3a.css.map": "/react-portfolio/static/css/main.4eccda3a.css.map",
+    "main.727a6333.js.map": "/react-portfolio/static/js/main.727a6333.js.map"
   },
   "entrypoints": [
-    "static/css/main.d90fbc42.css",
-    "static/js/main.2f5ba07a.js"
+    "static/css/main.4eccda3a.css",
+    "static/js/main.727a6333.js"
   ]
 }
