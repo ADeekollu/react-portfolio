@@ -3,7 +3,8 @@ import SneakerPeak from "../assets/thumbnail/sneakerPeak.png";
 import WeatherApplication from "../assets/thumbnail/weatherApp.png"
 import FanZone from "../assets/thumbnail/fanZone.png"
 import WorkDay from "../assets/thumbnail/workday.png"
-import DevPortfolio from "../assets/thumbnail/devPortfolio.png"
+import Misogi from "../assets/thumbnail/misogi.png"
+
 
 function Portfolio() {
   return (
@@ -109,10 +110,10 @@ function Portfolio() {
         <div className="job">
           <div className="job-info">
             <div className="job-img">
-              <a href="https://adeekollu.github.io/react-portfolio/">
+              <a href="https://misogi.herokuapp.com/">
                 {" "}
                 <img
-                  src={DevPortfolio}
+                  src={Misogi}
                   className="my-2"
                   style={{ width: "100%" }}
                   alt="Homepage of a developer portfolio"
@@ -120,10 +121,10 @@ function Portfolio() {
               </a>
             </div>
             <div className="job-text">
-              <h4>Developer Portfolio</h4>
+              <h4>Misogi</h4>
               <p>
-                A developer Portfolio built with React.js highlighting projects worked on and deployed,
-                along with a way to contact the developer.
+                A webpage for Misogi a non-profit that is working towards cleaning up our oceans 
+                and educating our community about Ocean Pollution. 
               </p>
             </div>
           </div>
