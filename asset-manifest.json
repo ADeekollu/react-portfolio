@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.4eccda3a.css",
-    "main.js": "/react-portfolio/static/js/main.d3ccc5c6.js",
+    "main.js": "/react-portfolio/static/js/main.c940e5dd.js",
     "static/media/profile.png": "/react-portfolio/static/media/profile.54535f7729fb34898787.png",
     "static/media/norway.jpg": "/react-portfolio/static/media/norway.05211d1ab958e6a2c315.jpg",
     "static/media/misogi.png": "/react-portfolio/static/media/misogi.b6cbbccb79a95ba58ccb.png",
     "static/media/sneakerPeak.png": "/react-portfolio/static/media/sneakerPeak.55612fe9e8f02253b7bb.png",
     "static/media/fanZone.png": "/react-portfolio/static/media/fanZone.dce494c514934f084bb8.png",
-    "static/media/BA_Resume.pdf": "/react-portfolio/static/media/BA_Resume.9c4a70f80152b92daeb2.pdf",
+    "static/media/BA-Dev-CV.pdf": "/react-portfolio/static/media/BA-Dev-CV.6caadad1cfe2663d113c.pdf",
     "static/media/weatherApp.png": "/react-portfolio/static/media/weatherApp.7384644cfa5c1b84338f.png",
     "static/media/workday.png": "/react-portfolio/static/media/workday.f9f8dcb867ecdf219fa3.png",
     "index.html": "/react-portfolio/index.html",
     "main.4eccda3a.css.map": "/react-portfolio/static/css/main.4eccda3a.css.map",
-    "main.d3ccc5c6.js.map": "/react-portfolio/static/js/main.d3ccc5c6.js.map"
+    "main.c940e5dd.js.map": "/react-portfolio/static/js/main.c940e5dd.js.map"
   },
   "entrypoints": [
     "static/css/main.4eccda3a.css",
-    "static/js/main.d3ccc5c6.js"
+    "static/js/main.c940e5dd.js"
   ]
 }
